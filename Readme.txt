@@ -1,1 +1,2 @@
-Hello world, this is my Git tutorial lesson.
+Hello Git, 
+Git is a very popular version control system
